@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\..\\firstReact\\my-app\\src"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\firstReact\\my-app\\.git"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\firstReact\\my-app\\public"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\firstReact\\my-app\\node_modules"
+		}
+	],
+	"settings": {}
+}
